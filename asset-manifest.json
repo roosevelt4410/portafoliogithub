@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portafoliogithub/static/css/main.a2ce2966.css",
+    "main.js": "/portafoliogithub/static/js/main.b96c23c5.js",
+    "static/media/reactParallax.jpg": "/portafoliogithub/static/media/reactParallax.50f5ff5c2bcaf0f7de26.jpg",
+    "static/media/arrayDestruct.jpg": "/portafoliogithub/static/media/arrayDestruct.3a5de99f49fed58d5aa2.jpg",
+    "static/media/heroImage.png": "/portafoliogithub/static/media/heroImage.3e2b7a992fb4a31190b0.png",
+    "static/media/java.png": "/portafoliogithub/static/media/java.fdabd4e11f1235e4e8e0.png",
+    "static/media/github.png": "/portafoliogithub/static/media/github.48ae0575cb4ea00c1097.png",
+    "static/media/spring.png": "/portafoliogithub/static/media/spring.06e2b731bd5a18d191f0.png",
+    "static/media/angular.png": "/portafoliogithub/static/media/angular.ab3585069ceb21a9b6f4.png",
+    "static/media/react.png": "/portafoliogithub/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/typescript.png": "/portafoliogithub/static/media/typescript.7f28d007a9968a0a8e39.png",
+    "static/media/html.png": "/portafoliogithub/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portafoliogithub/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portafoliogithub/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portafoliogithub/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/amazon.png": "/portafoliogithub/static/media/amazon.909d461eee65ee03c978.png",
+    "static/media/firebase.png": "/portafoliogithub/static/media/firebase.a4156cb67d6d0676cffc.png",
+    "index.html": "/portafoliogithub/index.html",
+    "main.a2ce2966.css.map": "/portafoliogithub/static/css/main.a2ce2966.css.map",
+    "main.b96c23c5.js.map": "/portafoliogithub/static/js/main.b96c23c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2ce2966.css",
+    "static/js/main.b96c23c5.js"
+  ]
+}
